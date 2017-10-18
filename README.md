@@ -1,10 +1,10 @@
-se# CFGS-ASIR
+# CFGS-ASIR
 ### Ejercicios y tareas del CFGS Administración de Sistemas Informáticos en Red
 
 #### En esta primera toma de contacto se ha realizado lo siguiente:
 1. He creado tres archivos de prueba en diferentes códigos. 
-2. Me he leído el tutorial de MarkDown,
-3. Me he registrado en GitHub y he creado un nuevo repositorio.
+2. Me he leído el tutorial de ![MarkDown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg),
+3. Me he registrado en ![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/240px-Octicons-mark-github.svg.png) y he creado un nuevo repositorio.
 4. se han subido al repositorio los siguientes archivos:
   * new 1.**html**
   * new 1.**xml**
